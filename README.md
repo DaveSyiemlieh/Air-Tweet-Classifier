@@ -29,6 +29,5 @@ The steps taken were as follows:
 #### Using max_features = 1600 and n_estimators = 550
 <img src="cm.JPG" alt=""></img> 
 ### I got an accuracy of 75.4% (2208/2928)
-> Considering the fact that the classification was done for 3 categories and that the tweets may be ambiguous/poorly written, the 75% accuracy is acceptable, however is there a way to get better results? 
-#### There's only ONE way to figure that out! 
-
+Considering the fact that the classification was done for 3 categories and that the tweets may be ambiguous/poorly written, the 75% accuracy is acceptable, however is there a way to get better results? 
+> Probably

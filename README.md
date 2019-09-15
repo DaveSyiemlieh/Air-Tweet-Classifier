@@ -14,7 +14,7 @@ However, is there a way to get better results?
 
 # Artificial Neural Networks 
 I decided to use an ANN with:
-#### 2 hidden layers (adding a third did not have significant effect in this case)
+#### 2 hidden layers (adding a third did not have a significant effect in this case)
 Overall, the ANN resulted in better classifications with an accuracy ranging between 
 ### Accuracy ~ 76-77%
 
